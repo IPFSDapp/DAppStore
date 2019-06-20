@@ -9,4 +9,4 @@ DApp Store is DApp Software Publish Library.
 ### window 版说明
   - 需要 .net Framework 4 及以上
 ### 帮助文档
-![](https://github.com/IPFSDapps/DAppStore/blob/master/docs/images/winTracert-helper.png)
+![](https://github.com/IPFSDapps/DAppStore/raw/master/Docs/tracert/winTracert-helper.png)
